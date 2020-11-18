@@ -1,5 +1,5 @@
 def loop_message_five_times(message)
-  counter = 0 
+  count = 0 
   message = ["hello world"]
   
   puts message
